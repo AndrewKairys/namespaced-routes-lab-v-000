@@ -1,3 +1,5 @@
+require 'rails_helper.rb'
+
 RSpec.describe ArtistsController do
 
   describe "GET new" do
